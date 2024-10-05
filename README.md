@@ -9,13 +9,21 @@ I have top level skills in **Web Scraping and Data Mining**
 
 <h3 align="left">My Services</h3>
 👉 Web Scraping Products from eCommerce (Amazon, Ebay etc)
+
 👉 List of Schools, Doctors, Clubs, Real Estate, Hotels, or any other service.
+
 👉 Yellow Pages Scraping
+
 👉 Python Web Scraping, Data Extraction or Crawling, and data mining
+
 👉 Web Scraping Leads (Name, Email, Phone and Address etc)
+
 👉 Job Boards data extraction (LinkedIn, Indeed, Glassdoor, Others)
+
 👉 Data Scraping from Login-Based Websites
+
 👉 Download Image Data (JPG, PNG)
+
 👉 Python Web Scraping
 
 <h3 align="left">Let's Connect</h3>
