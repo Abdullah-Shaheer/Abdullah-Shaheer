@@ -44,7 +44,7 @@ I have **top-notch** skills in **Web Scraping and Data Mining**
 <a href="https://www.facebook.com/profile.php?id=100090503161827" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="muhammad abdullah" height="30" width="40" /></a>
 <a href="https://instagram.com/_abdullah_shaheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abdullah_shaheer" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/muhammad-abdullah-b4b239331" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="muhammad abdullah" height="30" width="40" /></a>
-<a href="https://discord.com/channels/@me/1218993623119564922" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="_python_coder" height="30" width="40" /></a>
+<a href="https://discord.com/users/_python_coder" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="_python_coder" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/27637976/abdullah-shaheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdullah-shaheer" height="30" width="40" /></a>
 </p>
 
