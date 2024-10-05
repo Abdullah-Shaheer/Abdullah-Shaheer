@@ -8,6 +8,7 @@
 I have top level skills in **Web Scraping and Data Mining**
 
 <h3 align="left">My Services</h3>
+
 👉 Web Scraping Products from eCommerce (Amazon, Ebay etc)
 
 👉 List of Schools, Doctors, Clubs, Real Estate, Hotels, or any other service.
@@ -25,6 +26,14 @@ I have top level skills in **Web Scraping and Data Mining**
 👉 Download Image Data (JPG, PNG)
 
 👉 Python Web Scraping
+
+<h3 align="left">You will Get</h3>
+
+👉 High Quality Data
+
+👉 Output in custom formats like **JSON, XLSX, CSV, XML** etc 
+
+👉 Code (if needed)
 
 <h3 align="left">Let's Connect</h3>
 <p align="left">
