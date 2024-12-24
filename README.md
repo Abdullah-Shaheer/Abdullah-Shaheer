@@ -56,7 +56,7 @@ Here’s my arsenal of tools for web scraping and automation:
 I’d love to hear from you! Connect with me:  
 
 📘 **[Facebook](https://www.facebook.com/profile.php?id=100090503161827)**  
-📷 **[Instagram](https://instagram.com/_abdullah_shaheer)**  
+📷 **[Instagram](https://instagram.com/abdullahshaheer_17398)**  
 💼 **[LinkedIn](https://www.linkedin.com/in/muhammad-abdullah-b4b239331)**  
 💻 **[StackOverflow](https://stackoverflow.com/users/27637976/abdullah-shaheer)**  
 
