@@ -1,48 +1,60 @@
-<table>
-  <tr>
-    <td valign="top">
-      <h1 align="center">
-        Hi there! <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></span> I'm Muhammad Abdullah
-      </h1>
-      <h3 align="center">
-        Web Scraping • Automation • Data Pipelines • ETL
-      </h3>
-      <h4 align="center">
-        I build reliable, scalable systems that turn web data into usable, structured information
-      </h4>
-    </td>
-    <td align="right" valign="top">
-      <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="380" height="250" alt="coding">
-    </td>
-  </tr>
-</table>
+<img align="right"
+     src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif"
+     width="380"
+     alt="coding gif">
+
+     
+<h3 align="left">Hey there 👋</h3>
+<h3 align="left">I'm Muhammad Abdullah</h3>
+
+<p align="left">
+  <b>Web Scraping • Automation • Data Pipelines • ETL</b><br>
+  I build reliable, scalable systems that turn web data into clean, usable information
+</p>
+
+<p align="left"><b>Let’s connect</b></p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdullahscrapes/">
+    <img src="https://www.google.com/s2/favicons?domain=linkedin.com&sz=40" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/abdullahscrapeauto">
+    <img src="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/upwork.ico" width="40" />
+  </a>
+  <a href="https://www.reddit.com/user/abdullah-shaheer/">
+    <img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=40" />
+  </a>
+  <a href="https://instagram.com/m.abdullahshaheer">
+    <img src="https://www.google.com/s2/favicons?domain=instagram.com&sz=40" />
+  </a>
+  <a href="mailto:abdullahthedev17398@gmail.com">
+    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="40" />
+  </a>
+</p>
+
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abdullah-shaheer&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ## 🚀 About
 
-I build automated systems that extract, process, and maintain web data at scale.
+I design and maintain automated systems that extract, process, and manage web data **at scale**.
 
-Most of the work here focuses on:
-- collecting data from complex or dynamic websites
-- keeping it clean, structured, and up to date
-- delivering it in formats that are immediately usable
+My work focuses on:
+- complex & JavaScript-heavy websites  
+- long-running, stable automation  
+- clean, structured, production-ready data  
 
 The emphasis is on **reliability, scalability, and long-term execution**, not one-off scripts.
 
 ---
 
-## 🧩 What This Repository Space Covers
+## 🧩 What This Space Covers
 
 - Automated web scraping systems  
-- Browser-based & API-driven data extraction  
+- Browser-based & API-driven extraction  
 - JavaScript-heavy website handling  
 - Data pipelines (extract → clean → store)  
-- Long-running & scheduled automation  
+- Scheduled & long-running automation  
 - Monitoring, retries, and failure handling  
 
 ---
@@ -50,7 +62,7 @@ The emphasis is on **reliability, scalability, and long-term execution**, not on
 ## 🧠 Core Focus Areas
 
 - Dynamic & protected websites  
-- API discovery and reverse engineering  
+- API discovery & reverse engineering  
 - Data normalization & validation  
 - Proxy-aware scraping strategies  
 - Headed & non-headless automation  
@@ -80,17 +92,8 @@ The emphasis is on **reliability, scalability, and long-term execution**, not on
 
 ### Supporting Tools
 - Postman  
-- Mitmproxy & Burp Suite  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullah-shaheer&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-shaheer&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-shaheer&layout=compact&theme=radical" />
-</p>
+- Mitmproxy  
+- Burp Suite  
 
 ---
 
