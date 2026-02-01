@@ -15,10 +15,10 @@
 <p align="left"><b>Let’s connect</b></p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abdullahscrapes/">
+  <a href="https://www.linkedin.com/in/skyhawk17398/">
     <img src="https://www.google.com/s2/favicons?domain=linkedin.com&sz=40" />
   </a>
-  <a href="https://www.upwork.com/freelancers/abdullahscrapeauto">
+  <a href="https://www.upwork.com/freelancers/skyhawk">
     <img src="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/upwork.ico" width="40" />
   </a>
   <a href="https://www.reddit.com/user/abdullah-shaheer/">
