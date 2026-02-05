@@ -12,9 +12,9 @@
   I build reliable, scalable systems that turn web data into clean, usable information
 </p>
 
-<!-- <p align="left"><b>Let’s connect</b></p> -->
+<p align="left"><b>Let’s connect</b></p>
 
-<!-- <p align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/skyhawk17398/">
     <img src="https://www.google.com/s2/favicons?domain=linkedin.com&sz=40" />
   </a>
@@ -30,7 +30,7 @@
   <a href="mailto:abdullahthedev17398@gmail.com">
     <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="40" />
   </a>
-</p> -->
+</p>
 
 
 ---
